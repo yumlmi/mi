@@ -3,7 +3,7 @@ title: "ここにページのタイトル"
 author: default
 permalink: /
 ---
-#　あ
+
 
 
 
@@ -13,7 +13,7 @@ permalink: /
 
 以下テンプレート
 
-# 見出し１
+# Mrs. GREEN APPLE
 ## 見出し２
 ### 見出し3
 #### 見出し4
