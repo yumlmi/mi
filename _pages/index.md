@@ -1,19 +1,22 @@
 ---
-title: "ここにページのタイトル"
+title: "Mrs. GREEN APPLE"
 author: default
 permalink: /
 ---
 
 ---
 # Mrs. GREEN APPLE
-![image](/assets/images/Mrs_artist_photo.png)  
+![image](https://mrsgreenapple.com/static/mga/contents/upimg/3108f59102c9b08ca3cc427a1d13b548.jpeg)
+
 ---
 - Member  
  - **大森　元貴**　(Vo/Gt)  
-作詞、作曲、編曲の全てを手がける。
- - **若井　滉斗**　(Gt)
- - **藤澤　涼架**　(Key)　
-
+作詞、作曲、編曲の全てを手がける。  
+写真の真ん中の人。
+ - **若井　滉斗**　(Gt)  
+写真の右の人。
+ - **藤澤　涼架**　(Key)  
+写真の左の人。
 
 
 
