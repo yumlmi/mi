@@ -6,6 +6,13 @@ permalink: /
 
 ---
 # Mrs. GREEN APPLE
+---
+- Member
+ - **大森　元貴**　(Vo/Gt)  
+作詞、作曲、編曲の全てを手がける。
+ - **若井　滉斗**　(Gt)
+ - **藤澤　涼架**　(Key)　
+
 
 
 
@@ -14,7 +21,7 @@ permalink: /
 
 以下テンプレート
 
-# Mrs. GREEN APPLE
+# 見出し1
 ## 見出し２
 ### 見出し3
 #### 見出し4
