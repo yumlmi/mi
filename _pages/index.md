@@ -6,7 +6,7 @@ permalink: /
 
 ---
 # Mrs. GREEN APPLE
-![image](/mi/assets/images/Mrs_artist_photo.png)  
+![image](/assets/images/Mrs_artist_photo.png)  
 ---
 - Member  
  - **大森　元貴**　(Vo/Gt)  
